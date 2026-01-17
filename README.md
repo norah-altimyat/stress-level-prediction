@@ -34,4 +34,4 @@ The dataset includes lifestyle and health-related features such as sleep quality
 - Deploy the model as a simple web application
 
 ---
-*Author:* Norah Altemyat
+*Author:* Norah Altimyat
